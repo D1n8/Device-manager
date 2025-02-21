@@ -1,2 +1,2 @@
-# Device-manager-
+# Device-manager
 Angular course practice
